@@ -28,4 +28,5 @@ The following project is realized as part of the Data Mining course given by the
 
 ## Installing the project
 
-In order to execute notebook without problems, you may put datasets in the data folder. You may also use ```pip install -r requirements.txt```` 
+In order to execute notebook without problems, you may put datasets in the data folder. You may also use 
+```pip install -r requirements.txt```` 
