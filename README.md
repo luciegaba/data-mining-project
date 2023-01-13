@@ -1,11 +1,8 @@
-# data-mining-project
-
-
 ## Table of Contents
 
 * [About the Project](#about_the_project)
 * [Getting datasets](#getting_datasets)
-* [Installing the project](#getting_datasets)
+* [Installing the project](#installing_the_project)
 * [Contact](#contact)
 
 <br>
@@ -25,8 +22,11 @@ The following project is realized as part of the Data Mining course given by the
 
 
 
-
 ## Installing the project
 
 In order to execute notebook without problems, you may put datasets in the data folder. You may also use 
-```pip install -r requirements.txt```` 
+```pip install -r requirements.txt```
+
+## Contact
+* Lucie Gabagnou👸 - Lucie.Gabagnou@etu.univ-paris1.fr
+* Yanis Rehoune👨‍🎓 - Yanis.Rehoune@etu.univ-paris1.fr
