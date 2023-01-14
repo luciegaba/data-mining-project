@@ -9,7 +9,7 @@
 
 ## About the Project
 
-The following project is realized as part of the Data Mining course given by the MoSEF Master at the University of Paris 1 Panthéon-Sorbonne. The main goal is to apply our knowledge in ML and Feature Engineering. For this purpose, the project is articulated over 2 parts: PCA Clustering Analysis and Regression.
+The following project is realized as part of the Data Mining course given by the MoSEF Master at the University of Paris 1 Panthéon-Sorbonne. The main goal is to apply our knowledge in ML and Feature Engineering. For this purpose, the project is articulated over 2 parts: PCA Clustering Analysis and Regression (predict electricity per sector).
 
 
 ## Getting datasets
